@@ -1,2 +1,0 @@
-# snack-squad
-snack-squad
